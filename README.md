@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Jaimesen Kieran Moss 👋
 
 ### 🧬 Aspiring Synthetic Biologist & Quantitative Biochemist
 I am wrapping up my B.A. at Cal State LA and pivoting into the computational optimization of eukaryotic organisms. My focus centers on engineering *Saccharomyces cerevisiae* metabolic pathways for cancer therapeutics and human tissue engineering signaling factors.
@@ -6,7 +6,7 @@ I am wrapping up my B.A. at Cal State LA and pivoting into the computational opt
 ---
 
 ## 💻 Current Summer Project
-### [Yeast Metabolic Pathway Optimizer](Link-To-Your-Project-Repo)
+### [Yeast Metabolic Pathway Optimizer](https://github.com/JaimesenMoss/yeast-metabolic-pathway-optimize)
 An automated bioinformatics pipeline built in Google Colab using `Biopython` and `Matplotlib`.
 * **Database Automation:** Connects directly to the NCBI GenBank API to pull genetic sequences across kingdoms.
 * **Expression Quality Control:** Maps and visualizes GC-content discrepancies and translation bottlenecks between humans, plants, and yeast.
@@ -24,4 +24,4 @@ An automated bioinformatics pipeline built in Google Colab using `Biopython` and
 ## 🎯 Next Milestone (June - July)
 Developing a custom algorithmic codon-optimization matrix to programmatically eliminate rare codon stalls when transferring plant oncology genes into industrial yeast strains.
 
-📫 **Let's Connect:** [Your Email] | [Your LinkedIn, if applicable]
+📫 **Let's Connect:** [jmoss3@calstatela.edu]
